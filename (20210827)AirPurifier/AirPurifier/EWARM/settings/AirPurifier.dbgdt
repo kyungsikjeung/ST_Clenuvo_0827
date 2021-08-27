@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Project>
+  <Desktop>
+    <Static>
+      <Debug-Log>
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1621</ColumnWidth1></Debug-Log>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1215</ColumnWidth1><ColumnWidth2>324</ColumnWidth2><ColumnWidth3>81</ColumnWidth3></Build>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>217</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Disassembly>
+        
+        
+        <col-names>
+          
+          
+        <item>Disassembly</item><item>_I0</item></col-names>
+        <col-widths>
+          
+          
+        <item>500</item><item>20</item></col-widths>
+        <DisasmHistory/>
+      <PreferedWindows><Position>2</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>StaticWatch</Factory></Window><Window><Factory>QuickWatch</Factory></Window></Windows></PreferedWindows><ShowCodeCoverage>1</ShowCodeCoverage><ShowInstrProfiling>1</ShowInstrProfiling></Disassembly>
+      <StaticWatch>
+        <expressions>
+          
+          
+          
+          
+          
+          
+          
+        <item>E2PTime</item><item>Time</item><item>Power</item><item>Flag</item><item>Adc</item><item>Time_Fan</item><item>Time_FanLed</item><item>aADCxConvertedData</item><item>Time_FanPWM</item><item>Read_data</item><item>Read_data_1</item><item>Read_data_2</item><item>Time_Read</item><item>Mode</item><item>Time_Ionizer</item><item>SensorLedStatus</item><item>Time_Status</item><item>Test_Time</item><item>Mode</item><item>WindowMode</item><item>cnt_test</item><item>b</item><item>TestData</item><item>E2PTime</item><item>Time</item><item>Read_data</item><item>Time_90D</item><item>test</item><item>BuzMode</item><item>Time_Buz</item><item>Time_Pulse</item><item>ErCheck</item><item>WindowMode</item><item>Read_data</item><item>Read_data_1</item><item>Read_data_2</item><item>E2PReadCheck_Cnt</item><item>FanSpeed</item><item>FanOnTime</item><item>FanOffTime</item><item>consPwm</item><item>max</item><item>alpha</item><item>Time_Fan</item><item>E2PTime.s</item><item>Time_CheckWrite</item><item>SaveTime</item><item>SaveRead</item><item>ttt</item><item>tt1</item><item>E2PWriteCheck_Cnt</item><item>E2PReadCheck_Cnt</item><item></item></expressions>
+        <col-names>
+          
+          
+          
+          
+        <item>Expression</item><item>Location</item><item>Type</item><item>Value</item></col-names>
+        <col-widths>
+          
+          
+          
+          
+        <item>177</item><item>150</item><item>100</item><item>148</item></col-widths>
+      <PreferedWindows><Position>2</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Disassembly</Factory></Window><Window><Factory>QuickWatch</Factory></Window></Windows></PreferedWindows></StaticWatch>
+      <Find-in-Files>
+        
+        
+        
+        
+      <ColumnWidth0>497</ColumnWidth0><ColumnWidth1>82</ColumnWidth1><ColumnWidth2>746</ColumnWidth2><ColumnWidth3>331</ColumnWidth3></Find-in-Files>
+    <Select-Ambiguous-Definitions><ColumnWidth0>580</ColumnWidth0><ColumnWidth1>82</ColumnWidth1><ColumnWidth2>994</ColumnWidth2></Select-Ambiguous-Definitions><Memory><MemGotoHistory><item>0x0801F800</item><item>0x08000000</item><item>0x08020000</item><item>0x0800F800</item><item>0x08000800</item><item>0x08017000</item><item>0x0801F000</item><item>0x08007000</item><item>0x800F000</item><item>0x8080000</item><item>0x2080000</item><item>0x6080000</item><item>8080000</item></MemGotoHistory><FindAsHex>0</FindAsHex></Memory><QuickWatch><col-names><item>Expression</item><item>Location</item><item>Type</item><item>Value</item></col-names><col-widths><item>100</item><item>150</item><item>100</item><item>100</item></col-widths><QWatchHistory><item>FLASH_PageErase</item></QWatchHistory><PreferedWindows><Position>2</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Disassembly</Factory></Window><Window><Factory>StaticWatch</Factory></Window></Windows></PreferedWindows></QuickWatch><Register><RegFindHistory/></Register></Static>
+    <Windows>
+      
+      
+      
+    <Wnd3>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-26369-26766</Identity>
+            <TabName>Debug Log</TabName>
+            <Factory>Debug-Log</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-25846-26776</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-25742-27801</Identity>
+            <TabName>Find in Files</TabName>
+            <Factory>Find-in-Files</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-16966-11145</Identity><TabName>Ambiguous Definitions</TabName><Factory>Select-Ambiguous-Definitions</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd3><Wnd4>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-4349-26770</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>AirPurifier</ExpandedNode><ExpandedNode>AirPurifier/Application</ExpandedNode><ExpandedNode>AirPurifier/Application/User</ExpandedNode><ExpandedNode>AirPurifier/Application/User/Core</ExpandedNode><ExpandedNode>AirPurifier/Application/User/Core/main.c</ExpandedNode><ExpandedNode>AirPurifier/Drivers</ExpandedNode><ExpandedNode>AirPurifier/Drivers/STM32F0xx_HAL_Driver</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd4><Wnd5><Tabs><Tab><Identity>TabID-12144-25798</Identity><TabName>Memory</TabName><Factory>Memory</Factory><Session><ZoneNumber>0</ZoneNumber><SelectionAnchor>134346752</SelectionAnchor><SelectionEnd>134346752</SelectionEnd><UnitsPerGroup>1</UnitsPerGroup><EndianMode>0</EndianMode><DataCovEnabled>0</DataCovEnabled><DataCovShown>0</DataCovShown><AutoRefresh>0</AutoRefresh><HScroll>0</HScroll><VScroll>8396667</VScroll></Session></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd5><Wnd6><Tabs><Tab><Identity>TabID-2235-10409</Identity><TabName>Register</TabName><Factory>Register</Factory><Session><REG1>0</REG1><REG2>0</REG2><Group>35</Group><States>7</States><State0>Flash_CR</State0><State1>USART1_BRR</State1><State2>USART1_CR1</State2><State3>USART1_GTPR</State3><State4>USART1_RQR</State4><State5>USART1_RTOR</State5><State6>USART1_TDR</State6></Session></Tab><Tab><Identity>TabID-32389-10458</Identity><TabName>Live Watch</TabName><Factory>StaticWatch</Factory></Tab><Tab><Identity>TabID-2593-11016</Identity><TabName>Disassembly</TabName><Factory>Disassembly</Factory><Session/></Tab></Tabs><SelectedTab>1</SelectedTab></Wnd6></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Core\Inc\main.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>3421</SelStart2><SelEnd2>3464</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Core\Src\main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>830</YPos2><SelStart2>28684</SelStart2><SelEnd2>28684</SelEnd2></Tab><ActiveTab>1</ActiveTab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-060AF2D8><key>iaridepm.enu1</key></Toolbar-060AF2D8></Sizes></Row0><Row1><Sizes><Toolbar-12225568><key>debuggergui.enu1</key></Toolbar-12225568></Sizes></Row1></Top><Left><Row0><Sizes><Wnd4><Rect><Top>-2</Top><Left>-2</Left><Bottom>394</Bottom><Right>308</Right><x>-2</x><y>-2</y><xscreen>183</xscreen><yscreen>161</yscreen><sizeHorzCX>119141</sizeHorzCX><sizeHorzCY>206146</sizeHorzCY><sizeVertCX>201823</sizeVertCX><sizeVertCY>507042</sizeVertCY></Rect></Wnd4></Sizes></Row0></Left><Right><Row0><Sizes><Wnd6><Rect><Top>-2</Top><Left>-2</Left><Bottom>394</Bottom><Right>506</Right><x>-2</x><y>-2</y><xscreen>183</xscreen><yscreen>161</yscreen><sizeHorzCX>119141</sizeHorzCX><sizeHorzCY>206146</sizeHorzCY><sizeVertCX>330729</sizeVertCX><sizeVertCY>507042</sizeVertCY></Rect></Wnd6></Sizes></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>159</Bottom><Right>1538</Right><x>-2</x><y>-2</y><xscreen>1540</xscreen><yscreen>161</yscreen><sizeHorzCX>1002604</sizeHorzCX><sizeHorzCY>206146</sizeHorzCY><sizeVertCX>119141</sizeVertCX><sizeVertCY>206146</sizeVertCY></Rect></Wnd3></Sizes></Row0><Row1><Sizes><Wnd5><Rect><Top>157</Top><Left>-2</Left><Bottom>318</Bottom><Right>1538</Right><x>-2</x><y>157</y><xscreen>1540</xscreen><yscreen>161</yscreen><sizeHorzCX>1002604</sizeHorzCX><sizeHorzCY>206146</sizeHorzCY><sizeVertCX>119141</sizeVertCX><sizeVertCY>206146</sizeVertCY></Rect></Wnd5></Sizes></Row1></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Project>
+
+
