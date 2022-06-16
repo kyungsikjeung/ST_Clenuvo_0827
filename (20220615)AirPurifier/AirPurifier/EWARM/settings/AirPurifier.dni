@@ -1,0 +1,55 @@
+[StLinkDriver]
+stlinkserialNo=36272143
+stlinkfoundProbes=
+CStepIntDis=_ 0
+LeaveTargetRunning=_ 0
+[DebugChecksum]
+Checksum=89366714
+[Exceptions]
+StopOnUncaught=_ 0
+StopOnThrow=_ 0
+[Stack]
+FillEnabled=0
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnLogOnly=1
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[CallStack]
+ShowArgs=0
+[Disassembly]
+MixedMode=1
+[struct_types]
+Fmt0=struct _Time-day	3	0
+Fmt1=struct _Time-hour	3	0
+Fmt2=struct _Time-min	3	0
+Fmt3=struct _Time-s	3	0
+[array_types]
+Fmt0=uint8_t[4]	3	0
+[watch_formats]
+Fmt0={W}42:E2PReadCheck_Cnt	3	0
+Fmt1={W}42:E2PTime.s	3	0
+Fmt2={W}42:E2PWriteCheck_Cnt	3	0
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[CallStackLog]
+Enabled=0
+[CallStackStripe]
+ShowTiming=1
+[Disassemble mode]
+mode=0
+[Breakpoints2]
+Count=0
+[Aliases]
+A0=_ "D:\company\wellis\clenuvo\src\(20210608)AirPurifier\AirPurifier\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_i2c.c" ""
+A1=_ "E:\company\wellis\src\(20210311)AirPurifier\AirPurifier\Core\Src\main.c" "C:\Users\WELLIS\Desktop\project\(20210311)AirPurifier\AirPurifier\Core\Src\main.c"
+Count=2
+SuppressDialog=1
